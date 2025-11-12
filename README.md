@@ -24,7 +24,7 @@
 - How to implement GitOps using ArgoCD
 - Testing the application deployed by ArgoCD on the EKS cluster 
 
-## This project contains Three directories
+## **This project contains Three directories**
 
 ➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
 
