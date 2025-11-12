@@ -1,6 +1,6 @@
 # GitOps and ArgoCD Complete Hands-on Project
 
-In this comprehensive hands-on project, we dive deep into the world of GitOps and ArgoCD, demonstrating how to implement these essential DevOps practices step by step.
+## In this comprehensive hands-on project, we dive deep into the world of GitOps and ArgoCD, demonstrating how to implement these essential DevOps practices step by step.
 
 🐳 Dockerizing the Todo Application: We begin by containerizing the Todo application, ensuring it's ready to be deployed and managed efficiently.
 
@@ -24,7 +24,7 @@ In this comprehensive hands-on project, we dive deep into the world of GitOps an
 - How to implement GitOps using ArgoCD
 - Testing the application deployed by ArgoCD on the EKS cluster 
 
-**This project contains Three directories**
+## This project contains Three directories
 
 ➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
 
