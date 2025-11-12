@@ -30,10 +30,10 @@ Following this pipeline ensures that our application code is thoroughly tested, 
 
 **This project contains Three GitHub directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
+➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
+➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/kube_manifest)
+➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
 
 🙏 Thank you so much for reading.
