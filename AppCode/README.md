@@ -23,9 +23,9 @@ This directory contains the code of the React application called ToDo-App. I've 
 
 **This project contains Three directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
+➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
+➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/kube_manifest)
+➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
 
