@@ -74,4 +74,4 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 ➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
 
-➡️ [Manifest Repo] (https://github.com/basnight/kube_manifest)
+➡️ [Manifest] (https://github.com/basnight/kube_manifest)
