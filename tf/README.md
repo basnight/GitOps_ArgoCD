@@ -68,10 +68,10 @@ Finally, HIT the below command to create the infrastructure...
 type yes, and it will prompt you for permission or use --auto-approve in the command above.
 
 
-**This project contains Three GitHub repositories**
+**This project contains Three directories**
 
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
+➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
 
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
+➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
 
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
+➡️ [Manifest Repo] (https://github.com/basnight/kube_manifest)
