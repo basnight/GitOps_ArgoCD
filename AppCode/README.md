@@ -2,7 +2,7 @@
 
 This directory contains the code of the React application called ToDo-App. I've created this to Deploy it on the Kubernetes cluster by GitOps workflow.
 
-## 💪Complete Hands-on video tutorial for this project. Click here 👇
+## Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
 
 ## Architecture
@@ -23,9 +23,9 @@ This directory contains the code of the React application called ToDo-App. I've 
 
 **This project contains Three directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
+➡️ [App Code] [link](https://github.com/basnight/GitOps_Project/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
+➡️ [Terraform code] [link](https://github.com/basnight/GitOps_Project/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
+➡️ [Manifest] [link](https://github.com/basnight/GitOps_Project/tree/main/kube_manifest)
 
