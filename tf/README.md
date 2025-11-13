@@ -2,7 +2,7 @@
 # Provisioning the Amazon EKS cluster using Terraform
 This directory contains the terraform file code, which we can use to provision the **Amazon EKS** cluster. In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**(this repo).
 
-## 💪Complete Hands-on video tutorial for this project. Click here 👇
+## Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
 
 ## Architecture Diagram
@@ -15,18 +15,18 @@ Follow the below steps to Install the Terraform and another dependency.
 
 1️⃣ Clone the repo
 
-``` git clone https://github.com/basnight/GitOps_ArgoCD/tree/main/tf.git ```
+``` git clone https://github.com/basnight/GitOps_Project.git ```
 
 2️⃣ Let's install dependency to deploy the application
 
 ``` 
-cd kube_terraform/ToDo-App/
+cd GitOps_Project-main/tf/ToDo-App/
 terraform init
 ```
 
 3️⃣ Edit the below file according to your configuration
 
-`vim kube_terraform/ToDo-App/backend.tf`
+`vim GitOps_Project-main/tf/ToDo-App/backend.tf`
 
 add below code
 
@@ -70,8 +70,8 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 **This project contains Three directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
+➡️ [App Code] [link](https://github.com/basnight/GitOps_Project/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
+➡️ [Terraform code] [link](https://github.com/basnight/GitOps_Project/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
+➡️ [Manifest] [link](https://github.com/basnight/GitOps_Project/tree/main/kube_manifest)
