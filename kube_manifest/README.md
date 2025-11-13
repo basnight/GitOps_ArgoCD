@@ -2,7 +2,7 @@
 
 ✨This directory contains the code of the **Kubernetes manifest files** In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**.
 
-## 💪Complete Hands-on video tutorial for this project. Click here 👇
+## Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
 
 ## Architecture
@@ -30,10 +30,10 @@ Following this pipeline ensures that our application code is thoroughly tested, 
 
 **This project contains Three GitHub directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
+➡️ [App Code] [link](https://github.com/basnight/GitOps_Project/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
+➡️ [Terraform code] [link](https://github.com/basnight/GitOps_Project/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
+➡️ [Manifest] [link](https://github.com/basnight/GitOps_Project/tree/main/kube_manifest)
 
 🙏 Thank you so much for reading.
